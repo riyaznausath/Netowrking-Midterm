@@ -1,0 +1,14 @@
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.exe
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.deps.json
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.runtimeconfig.json
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.runtimeconfig.dev.json
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.dll
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\bin\Release\netcoreapp3.1\MidtermServer.pdb
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.csproj.AssemblyReference.cache
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.AssemblyInfoInputs.cache
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.AssemblyInfo.cs
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.csproj.CoreCompileInputs.cache
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.dll
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.pdb
+C:\Users\riyaz\Desktop\OntechU\fourthyear\2\distribute\midterm\Server\MidtermServer\MidtermServer\obj\Release\netcoreapp3.1\MidtermServer.genruntimeconfig.cache
